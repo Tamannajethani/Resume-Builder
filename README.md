@@ -1,4 +1,4 @@
-📝 Resume Builder - Java Swing Application 
+📝 Resume Building Application 
 
 A Java-based desktop application to help users build professional resumes with customizable templates and export to PDF functionality.
 
